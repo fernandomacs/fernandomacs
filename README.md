@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Fernando, Web Developer and Senior Designer at [Globo](https://www.globo.com/).
+I'm Fernando, Web Developer at [EY](https://www.ey.com/).
 
 ## Contact Me
 
