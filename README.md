@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Fernando, Web Developer at [EY](https://www.ey.com/).
+I'm Fernando, Senior Software Engineer.
 
 ## Contact Me
 
